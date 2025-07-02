@@ -133,7 +133,6 @@ The project includes:
 pandas
 matplotlib
 seaborn
-scikit-learn
 numpy
 
 
