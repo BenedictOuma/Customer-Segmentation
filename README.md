@@ -41,9 +41,6 @@ The project includes:
 
 ---
 
-
----
-
 ##  Methodology
 
 ### Techniques Used:
