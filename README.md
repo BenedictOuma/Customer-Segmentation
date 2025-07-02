@@ -1,5 +1,5 @@
 # Customer Segmentation Using K-Means Clustering
-
+ 
 ## Project Overview
 This project focuses on segmenting wholesale customers based on their **annual spending habits** using **K-Means Clustering**. The goal is to identify distinct customer groups to enable **data-driven marketing**, **inventory planning**, and **personalized business strategies**.
 
