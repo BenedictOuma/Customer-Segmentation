@@ -29,20 +29,6 @@ The project includes:
 
 ---
 
-## Project Structure
-
-customer_segmentation/
-├── notebooks/
-│ └── wholesale_kmeans_clustering.ipynb # Main Jupyter notebook
-├── visuals/
-│ └── *.png # All generated plots (EDA, clusters, etc.)
-├── presentation/
-│ └── Customer_Segmentation_Presentation.pptx
-├── README.md
-└── requirements.txt
-
----
-
 ##  Methodology
 
 ### Techniques Used:
