@@ -1,5 +1,5 @@
 # Customer Segmentation Using K-Means Clustering
-
+ 
 ## Project Overview
 This project focuses on segmenting wholesale customers based on their **annual spending habits** using **K-Means Clustering**. The goal is to identify distinct customer groups to enable **data-driven marketing**, **inventory planning**, and **personalized business strategies**.
 
@@ -26,18 +26,6 @@ The project includes:
 | Frozen             | Annual spending on frozen items                   | Integer   |
 | Detergents_Paper   | Annual spending on cleaning supplies              | Integer   |
 | Delicassen         | Annual spending on delicatessen products          | Integer   |
-
----
-
-## Project Structure
-├── notebooks/
-│ └── wholesale_kmeans_clustering.ipynb # Main Jupyter notebook
-├── visuals/
-│ └── *.png # All generated plots (EDA, clusters, etc.)
-├── presentation/
-│ └── Customer_Segmentation_Presentation.pptx
-├── README.md
-└── requirements.txt
 
 ---
 
@@ -131,5 +119,3 @@ pandas
 matplotlib
 seaborn
 numpy
-
-
